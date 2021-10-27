@@ -96,3 +96,13 @@ nav a:before {
 nav a:hover::before {
     width: 100%;
 }
+
+.WebsiteLogo {
+    width: 100px;
+    background-color: #8AC4FF;
+    text-align: center;
+    display: block;
+}
+
+
+
