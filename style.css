@@ -112,12 +112,19 @@ nav a:hover::before {
     margin: 10px;
 }
 
-label, input, textarea {
+label {
+    display: block;
+    color: #8AC4FF;
+    margin: auto;
+    padding: 5px;
+}
+input, textarea {
     display: block;
     color: black;
     margin: auto;
     padding: 5px;
 }
+
 
 .contact-form {
     text-align: center;

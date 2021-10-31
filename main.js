@@ -5,6 +5,8 @@ $(document).ready(function () {
     $('.submit').click(function (event) {
         
         console.log('CLicked Button')
+    
+        div.style.color = "#8AC4FF"
 
         var name = $('.name').val()
         var email = $('.email').val()
@@ -46,3 +48,7 @@ $(document).ready(function () {
 
     })
 })
+
+
+
+
